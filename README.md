@@ -3,3 +3,5 @@
 Crawler for EHentai as well as nHentai (written in E Language with GUI interface)；
 
 Currently only Chinese interface.
+
+![image](https://user-images.githubusercontent.com/72508351/218753562-67a464a1-df78-4f05-b9f2-b33601c9e4b8.png)
