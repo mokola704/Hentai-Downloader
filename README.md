@@ -1,4 +1,4 @@
-适用于EHentai以及nHentai的爬虫（基于易语言编写，有GUI界面）；
+适用于EHentai以及nHentai的~爬虫~下载器（基于易语言编写，有GUI界面）；
 
 Crawler for EHentai as well as nHentai (written in E Language with GUI interface)；
 
