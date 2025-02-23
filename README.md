@@ -9,5 +9,6 @@ Currently only Chinese interface.
 更新日志：  
 2025-2-24（1.3）
 随E站更新正则匹配规则
+
 2023-3-4（1.2）  
 修复了1.1版设置低延迟导致的图片丢失（Fix the picture loss caused by setting low latency in version 1.1）
